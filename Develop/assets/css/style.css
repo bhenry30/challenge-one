@@ -1,4 +1,4 @@
-/* page styling */
+/* full page styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -91,6 +91,7 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* Search Engine Optimization article */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -100,6 +101,7 @@ nav ul li {
     color: #ffffff;
 }
 
+/* Online Repuation Management article */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -109,6 +111,7 @@ nav ul li {
     color: #ffffff;
 }
 
+/* Social Media Marketing article */
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
